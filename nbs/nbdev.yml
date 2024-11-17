@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "flashtrain"
+  site-url: "https://NLTuan.github.io/flashtrain"
+  description: "A library inspired by fastai and miniai by fastai. Meant for quickly training models, visualizing and debugging."
+  repo-branch: main
+  repo-url: "https://github.com/NLTuan/flashtrain"
